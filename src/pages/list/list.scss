@@ -1,3 +1,13 @@
 page-list {
+    .img{
+        width: 100px;
+        height: 100px;
+        background-size: cover;
+    }
 
+    .bg{
+        background-image: url('../assets/imgs/bg.jpg');
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
 }
